@@ -4,5 +4,7 @@
 Synthesizes a C-minor scale and writes it to `output.wav`
 
 compile: 
+
 `gcc doremi.c -lm`
+
 `clang doremi.c`
